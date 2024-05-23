@@ -1,0 +1,20 @@
+
+h3 {
+    background-color: blueviolet;
+}
+
+#titulo-principal {
+    font-size: 45px;
+}
+
+.item {
+    border: 1px solid red;
+}
+
+#item-especial {
+    color: gold;
+}
+
+body {
+    background-color: lightgray;
+}
